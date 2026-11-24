@@ -2,7 +2,10 @@
 
 I build automation that runs in production: LLM features wired into real products, backends on Cloudflare Workers, payment webhooks and Telegram systems.
 
-Small, self-contained tools extracted from my own production work will be published here. Each one is released under the MIT license, with an English README and without keys, domains or customer data.
+Small, self-contained tools extracted from my own production work are published here. Each one is released under the MIT license, with an English README and without keys, domains or customer data.
+
+**Tools**
+- [checkride](https://github.com/JAMM-Automation/checkride) — a Claude Code workflow where nothing is called done without an independent check: plan, challenge, act, verify.
 
 **Focus areas**
 - AI / LLM integration (Claude, OpenRouter: GPT, Gemini, DeepSeek), Claude Code setups with guardrails
